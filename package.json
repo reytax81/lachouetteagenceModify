@@ -1,0 +1,19 @@
+{
+  "name": "modifysite",
+  "version": "1.0.0",
+  "description": "site La chouette agence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reytax81/https---github.com-reytax81-laChouetteAgence.git"
+  },
+  "author": "yann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reytax81/https---github.com-reytax81-laChouetteAgence/issues"
+  },
+  "homepage": "https://github.com/reytax81/https---github.com-reytax81-laChouetteAgence#readme"
+}
